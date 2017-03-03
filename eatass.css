@@ -1,0 +1,75 @@
+
+img {
+    position: fixed;
+  top: 50%;
+  left: 50%;
+    background-color: transparent;
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    display: block;
+    margin: 0 auto;
+    margin-top: -150px;
+    margin-left: -60px;
+    background: url(http://yunngeric.weebly.com/uploads/7/6/6/8/76686927/screen-shot-2017-03-02-at-7-22-19-pm_orig.png);
+    background-image: url(http://yunngeric.weebly.com/uploads/7/6/6/8/76686927/screen-shot-2017-03-02-at-7-22-19-pm_orig.png);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: 13.63636em 4.09091em;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: transparent;
+    background-size: 13.63636em 4.09091em;
+    width: 8.63636em;
+    height: 3.em;
+}
+
+center{
+    
+    
+    position: fixed;
+  top: 50%;
+  left: 50%;
+    margin-top: -60px;
+    margin-left: -40px;
+    
+}
+
+time{
+
+    color: white;
+    position: fixed;
+  top: 50%;
+  left: 50%;
+    margin-top: -83px;
+    margin-left: -75px;
+    font-family: "Courier New", Courier, Monaco;
+        font-size: 0.6875em;
+    ont-weight: normal;
+    font-weight: bold;
+        height: 100%;
+    min-width: 69.09091em !important;
+    padding: 0 1.09091em;
+    
+}
